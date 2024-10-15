@@ -1,16 +1,14 @@
-## Hi there 👋
+## Kiet Tran A.
 
-<!--
-**mvn-kiettran-dn/mvn-kiettran-dn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an experienced Infrastructure DevOps Engineer with expertise in cloud architecture, automation, and containerized environments. My technical proficiencies include:
 
-Here are some ideas to get you started:
+- **Cloud Platforms:** AWS (primary), GCP, Cloudflare
+- **Infrastructure as Code (IaC):** Terraform, CloudFormation
+- **Programming Languages:** Node.js, Python, Bash
+- **CI/CD Pipelines:** Jenkins, GitHub Actions, AWS CodePipeline
+- **Containers & Orchestration:** Docker, Kubernetes, ECS Fargate
+- **Security & Compliance:** IAM, VPC, Security Groups, WAF
+- **Monitoring & Logging:** AWS CloudWatch, Prometheus, Grafana
+- **Database Management:** MySQL, RDS, SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on delivering scalable and secure solutions, I ensure that cloud infrastructure aligns with business goals and operational efficiency.
